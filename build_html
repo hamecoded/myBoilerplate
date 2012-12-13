@@ -1,0 +1,2 @@
+# run ./buid_html from commandline
+haml -f html5 index.haml > index.html
